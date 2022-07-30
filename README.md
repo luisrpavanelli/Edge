@@ -9,17 +9,17 @@ Crear un api
 - [x] Habilitar o CORS
 - [x] Habilitar el nodemon para reiniciar el Server
 
-## frontend
-Consumir API
+## Frontend
 
+Consumir API
 -[x] Utilizar fetch para consumir el API backend
 -[x] Explicar Promise - Async/await
 -[x] Usar try/catch
 -[x] Mostrar la respuesta en pantalla
 
-## backend
-Consumir API
+## Backend
 
+Consumir API
 -[x] jsonplaceholder (https://jsonplaceholder.typicde.com/users)
 -[x] Usar Axios
 -[x] Semejanza entre Axios e Fetch
