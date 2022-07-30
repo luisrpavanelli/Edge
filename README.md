@@ -12,15 +12,15 @@ Crear un api
 ## Frontend
 
 Consumir API
--[x] Utilizar fetch para consumir el API backend
--[x] Explicar Promise - Async/await
--[x] Usar try/catch
--[x] Mostrar la respuesta en pantalla
+- [x] Utilizar fetch para consumir el API backend
+- [x] Explicar Promise - Async/await
+- [x] Usar try/catch
+- [x] Mostrar la respuesta en pantalla
 
 ## Backend
 
 Consumir API
--[x] jsonplaceholder (https://jsonplaceholder.typicde.com/users)
--[x] Usar Axios
--[x] Semejanza entre Axios e Fetch
--[x] Usar try/catch
+- [x] jsonplaceholder (https://jsonplaceholder.typicde.com/users)
+- [x] Usar Axios
+- [x] Semejanza entre Axios e Fetch
+- [x] Usar try/catch
