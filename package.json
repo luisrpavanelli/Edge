@@ -1,0 +1,13 @@
+{
+  "name": "consuming-api",
+  "version": "1.0.0",
+  "description": "Crear un api - [] Iniciar el proyecto 'npm init -y' - [] Instalar el proyecto 'npm i express",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit l"
+  },
+  "keywords": [],
+  "author": "",
+  "lincense": "ISC"
+  
+}
